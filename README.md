@@ -14,5 +14,8 @@ Utilizei o "ChatGPT" para pesquisa sobre IAs Generativas utilizadas no mercado d
 ## 🚀 Resultados
 O e-book apresenta um conteúdo introdutorio demonstrando como as IAs Genativas são utilizados no mercado de ações, bem como as implicações na sua utilização e o futuro desta tecnologia para esse fim .
 
+
+Veja o Documento O Impacto da IA no Mercado de Ações.pdf
+
 ## 💭 Reflexão (Opcional)
 O desafio proporcional uam demonstração pratica de como a Ia pode ser utilizada para criação de conteúudos
